@@ -58,20 +58,18 @@ body {
 .feedback-form {
   width: 408px;
   height: 296px;
-  border-radius: 8px 0px 0px 0px;
+  border-radius: 8px;
   margin: 0 auto;
 }
 
 .feedback-form > label {
   width: 360px;
   height: 72px;
-  gap: 8px;
 }
 
 .feedback-form input {
   width: 360px;
   height: 40px;
-  gap: 0px;
   margin-bottom: 8px;
   padding: 16px 8px;
 }
@@ -94,8 +92,6 @@ body {
 .feedback-form-message {
   width: 360px;
   height: 80px;
-  gap: 0px;
-  opacity: 0px;
   resize: none;
 }
 
@@ -103,7 +99,6 @@ body {
   width: 95px;
   height: 40px;
   padding: 8px 16px;
-  gap: 10px;
   border-radius: 8px;
   margin-top: 16px;
   color: #fff;
