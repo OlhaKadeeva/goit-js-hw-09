@@ -32,3 +32,10 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+input:focus,
+textarea:focus,
+input:hover,
+textarea:hover {
+  outline: none;
+}
